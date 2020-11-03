@@ -241,6 +241,19 @@ header{
     font-size: 25px;
 }
 
+.texto10{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,2650%);
+}
+
+.texto10 h1{
+    color: #ffffff;
+    font-size: 30px;
+}
+
+
 ul{
     float: right;
     list-style-type: none;
