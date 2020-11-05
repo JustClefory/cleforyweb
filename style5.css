@@ -1,0 +1,278 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./1.jpg);
+    height: 200vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-350%);
+}
+
+.title h1{
+    color: #ffffff;
+    font-size: 70px;
+
+}
+
+.texto{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-250%);
+}
+
+.texto h1{
+    color: #F1C70B;
+    font-size: 45px;
+}
+
+.description{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-48%,-200%);
+}
+
+.description h1{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.texto2{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-40%);
+}
+
+.texto2 h1{
+    color: #F1C70B;
+    font-size: 45px;
+}
+
+.description2{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-48%,150%);
+}
+
+.description2 h1{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.texto3{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,150%);
+}
+
+.texto3 h1{
+    color: #F1C70B;
+    font-size: 45px;
+}
+
+.description3{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-48%,500%);
+}
+
+.description3 h1{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.texto4{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,350%);
+}
+
+.texto4 h1{
+    color: #F1C70B;
+    font-size: 45px;
+}
+
+.description4{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-48%,850%);
+}
+
+.description4 h1{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.texto5{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,550%);
+}
+
+.texto5 h1{
+    color: #F1C70B;
+    font-size: 45px;
+}
+
+.description5{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-48%,1200%);
+}
+
+.description5 h1{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.texto6{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,750%);
+}
+
+.texto6 h1{
+    color: #F1C70B;
+    font-size: 45px;
+}
+
+.description6{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-48%,1550%);
+}
+
+.description6 h1{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.texto7{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,950%);
+}
+
+.texto7 h1{
+    color: #F1C70B;
+    font-size: 45px;
+}
+
+.description7{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-48%,1900%);
+}
+
+.description7 h1{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.texto8{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,1150%);
+}
+
+.texto8 h1{
+    color: #F1C70B;
+    font-size: 45px;
+}
+
+.description8{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-48%,2300%);
+}
+
+.description8 h1{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.texto9{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,1350%);
+}
+
+.texto9 h1{
+    color: #F1C70B;
+    font-size: 45px;
+}
+
+.description9{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-48%,900%);
+}
+
+.description9 h1{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.texto10{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,2650%);
+}
+
+.texto10 h1{
+    color: #ffffff;
+    font-size: 30px;
+}
+
+
+ul{
+    float: right;
+    list-style-type: none;
+}
+
+ul li{
+    display: inline-block;
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid #ffffff;
+    transition: 0.6s ease;
+}
+
+ul li a:hover{
+    background-color: #ffffff;
+    color: #000;
+}
